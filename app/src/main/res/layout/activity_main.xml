@@ -10,7 +10,8 @@
     tools:context="com.example.maitrinh.demotransitionframework.MainActivity">
 
     <TextView
+        android:layout_centerInParent="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Hello the World!" />
 </RelativeLayout>
